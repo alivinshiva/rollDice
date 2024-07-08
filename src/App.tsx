@@ -43,6 +43,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     textAlign: 'center',
     marginBottom: 20,
+    top: 20
   },
   resultContainer: {
     alignItems: 'center',
